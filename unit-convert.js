@@ -1,6 +1,6 @@
 
 
-InchesToFeet
+// InchesToFeet
 function InchesToFeet(inches) {
     var feet = inches / 12;
     return feet;
