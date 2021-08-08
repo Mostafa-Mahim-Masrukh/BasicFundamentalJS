@@ -1,3 +1,2 @@
-for (let i = 10; i >= 1; i--) {
-    console.log(i);
-}
+var result = Math.floor(12.98);
+console.log(result);
